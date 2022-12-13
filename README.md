@@ -1,5 +1,9 @@
 # node-red-contrib-kafkajs
 
+## IMPORTANT : 
+
+This is fork of https://github.com/emrebekar/node-red-contrib-kafkajs  ,and all the credit for this package goes to owner of above repo. The only change made in this fork is,package.json is updated with latest kafka js version & published to npm. 
+
 This node can be used in order to produce and consume messages to Kafka. It is highly depends on 'kafkajs' library. Consists three nodes.
 
 This node is an advanced alternative to https://github.com/emrebekar/node-red-contrib-kafka-client
