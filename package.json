@@ -12,7 +12,7 @@
         "uuid": "latest"
     },
     "homepage": "https://github.com/amey0309/node-red-contrib-kafkajs#readme",
-    "version":"0.0.8",
+    "version":"0.0.7",
     "license" :"Apache 2.0",
     "keywords": [
         "kafka",
